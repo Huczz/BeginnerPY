@@ -1,4 +1,4 @@
-To be more confident : https://github.com/Huczz/BeginnerPY/commit/6e6aa2cc5d88859088e2cd02d5233ac73cf416fd#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5
+To be more confident if it was not downloaded from github : https://github.com/Huczz/BeginnerPY/commit/6e6aa2cc5d88859088e2cd02d5233ac73cf416fd#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5
 
 This project contains both French and English in the code/comments.
 
