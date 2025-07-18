@@ -1,4 +1,4 @@
-# Link Generator – BeginnerPY
+# Link Generator – Discord Nitro base.
 
 A beginner-friendly Discord Nitro-style link generator designed for educational purposes only.  
 This script is a training exercise to practice basic Python concepts.
