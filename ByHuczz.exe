@@ -4,6 +4,11 @@ from time import time
 from colorama import Fore, Back, Style
 import colorama
 colorama.init(autoreset = True)
+password = input(f"Password : ")
+if not "1985" in password:
+   print("Wrong Password. 2 seconds before exit ")
+   sleep(2)
+   exit()
 aleatory = "abdefghijklmopkrstuvwxyzABCDEFGHIJQLMOPQRSTUV"
 print(f"""{Fore.MAGENTA}
  ███▄    █  ██▓▄▄▄█████▓ ██▀███   ▒█████       ▄████ ▓█████  ███▄    █ 
@@ -21,7 +26,7 @@ number = input(f"{Fore.MAGENTA}How many link ? ")
 try:
     number = int(number)
 except ValueError: 
-        print(f"{Fore.MAGENTA}Fermeture du programme \n(caractere incorrect)")
+        print(f"{Fore.MAGENTA}Close in 3 seconds \n(caractere incorrect)")
         sleep(2)
         exit()
 generator = 1
@@ -38,7 +43,7 @@ while number >= generator:
   print(f"{Fore.MAGENTA}https://discord.com/gifts/"+code)
   generator += 1  
 end = time()
-print(f"{Fore.MAGENTA}Temps total : ",round(end - start, 1), f"{Fore.MAGENTA}secondes")
+print(f"{Fore.MAGENTA}Time : ",round(end - start, 1), f"{Fore.MAGENTA}secondes")
 sleep(10)
 exit()
 
