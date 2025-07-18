@@ -1,6 +1,6 @@
 To be more confident if it was not downloaded from github : https://github.com/Huczz/BeginnerPY/commit/6e6aa2cc5d88859088e2cd02d5233ac73cf416fd#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5
 
-This project contains both French and English in the code/comments.
+The prototype contains both French and English in the code/comments.
 
 Important parts like variables, functions and outputs are written in English to ensure readability for everyone. 
 
@@ -15,7 +15,7 @@ Le mot de passe est a trouver ;)
 
 EN 
 
-After installing the program, simply open the "Programs" file and double-click on ByHuczz.
+After installing the program, simply open the "Programs" ( if you didn't have , its not a problem. ) file and double-click on ByHuczz or LinkGen.
 DEMOGEN is the prototype version, open sourced on GitHub if you want to continue.
 Build -> Do not touch, these are files automatically compiled after the .py - executable transition.
 The password is still to be found ;)
